@@ -1,0 +1,9 @@
+{
+  "name": "Botanica Pro",
+  "description": "Professional agricultural intelligence and botanical bio-signature audit system.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
